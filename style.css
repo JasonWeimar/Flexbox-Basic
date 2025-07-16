@@ -35,8 +35,9 @@ aside{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    width: 800px;
+    width: 95%;
     margin: 0 auto;
+    margin-top: 8px;
 }
 
 .nav-links{
